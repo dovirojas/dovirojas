@@ -24,6 +24,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://colab.research.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Google_Colab_logo_2021.svg/1200px-Google_Colab_logo_2021.svg.png" alt="googlecolab" width="40" height="40"/> 
   </a> 
 </p>
