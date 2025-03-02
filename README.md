@@ -1,4 +1,4 @@
-<h1 align="center">Hola que tal 👋, soy Dorian Villegas</h1>
+<h1 align="center">Hey there! 👋, i'm Dorian Villegas</h1>
 <h3 align="center">A aspiring data scientist from Chile</h3>
 
 - 🔭 I’m currently working on **"ESTUDIO DE CONTEXTUALIZACIÓN TERRITORIAL UNIVERSITARIA 2025"**
@@ -22,8 +22,5 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://colab.research.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-plain.svg" alt="googlecolab" width="40" height="40"/> 
   </a> 
 </p>
